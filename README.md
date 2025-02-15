@@ -1,0 +1,2 @@
+# Python Type Error Bug
+This repository demonstrates a common type error in Python functions.  The `function` attempts to add an integer and a string, resulting in a `TypeError`. The solution shows how to handle this.
